@@ -5,8 +5,9 @@
 # include <stdio.h>
 
 int main(){
+	int num = 19; //Added variable num!...
+
 	printf("This is file 1");
-	printf("This is a test! ");
 	return 0;
 }
 
