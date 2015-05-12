@@ -7,3 +7,8 @@ int main(){
 	int b = 3;
 	printf("%a + %b is %c", a,b,(a+b));
 }
+
+/* Add 2 integers provided*/
+int add(int a, int b){
+	return a+b;
+}
